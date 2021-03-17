@@ -1,8 +1,14 @@
-#+TITLE: Dropout Gauge
+#+TITLE: Dropout Gauges
 
-[[./dropout-gauge.png]]
+[[./dropout-gauges.png]]
 
-* Spacin
+Quickly verifies correct dropout spacing.
+
+Has a nub for compatibility with the height gauge, to be used on the surface plate.
+
+Also has a v shape in the front for tube alignment on the surface plate.
+
+* Spacings
 
 (4 count, each with 4 spacings)
 
@@ -31,12 +37,13 @@
 
 - .25" 6061 aluminum plate
   - each is 72mm tall x the widest dropout spacing
-  - 72 x 126 => 9.0
-  - 72 x 145 => 10.4
-  - 72 x 157 => 11.3
-  - 72 x 197 => 14.2
+  - 72 x 126 => 9.0 cm2
+  - 72 x 145 => 10.4 cm2
+  - 72 x 157 => 11.3 cm2
+  - 72 x 197 => 14.2 cm2
+  - 45 cm2
   - => 17.5 in3
-  - => ~$15
+  - At ~$0.73/in3 => ~$15
 
 ** Cost
 

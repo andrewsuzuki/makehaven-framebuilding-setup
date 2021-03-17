@@ -24,9 +24,9 @@ Fixtures frame for brazing or welding.
 
 For positioning disc brake caliper mounts with all popular standards (IS, post mount, flat mount).
 
-*** Dropout Gauge
+*** Dropout Gauges =$15=
 
-[[file:tools/dropout-gauge.org]]
+[[file:tools/dropout-gauges.org]]
 
 Quickly verifies correct dropout spacing.
 
