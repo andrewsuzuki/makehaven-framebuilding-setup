@@ -1,0 +1,152 @@
+#+TITLE: MakeHaven Bicycle Framebuilding Setup
+
+* Funding
+
+Total cost: $2000
+Fundraising goal: $1000 (MakeHaven matches)
+
+* Location
+
+The frame jig will live in the welding area where the quenching tanks are currently located. The remaining tools can live in a bin or on a shelf.
+
+* Tool Overview
+
+Most of the below tools and their BOMs (bills of materials) can be found in `tools`.
+
+** To Make
+
+*** Frame Fixture
+
+Fixtures frame for brazing or welding.
+
+*** Universal Disc Brake Fixture
+
+For positioning disc brake caliper mounts with all popular standards (IS, post mount, flat mount).
+
+*** Dropout Gauge
+
+Quickly verifies correct dropout spacing.
+
+*** Braze-on Clamps
+
+Secures braze-ons to tubes while they are silver-brazed.
+
+*** Chainstay Mitering Fixture
+
+Holds seatstays in the bridgeport for mitering at the BB and dropouts.
+
+*** Seatstay Mitering Fixture
+
+Holds seatstays in the bridgeport for mitering at the seat tube and dropouts.
+
+*** Fork Fixture
+
+Fixtures fork at the correct length and offset for brazing or welding.
+
+*** Bridge Mitering Fixture
+
+Holds curved tubing for seatstay/chainstay bridges and allows them to be mitered symmetrically in the bridgeport.
+
+*** Universal Small-tube Mitering Fixture
+
+Fixtures small tapered tubes for mitering
+
+*** Tube Blocks
+
+Holds a specific diameter of tubing at the correct orientation in the bridgeport for mitering, or on the surface plate.
+
+Sizes:
+- 3/4" (round chainstays; holding hole saw arbors for removal)
+- 1" (traditional tt)
+- 1-1/8" (tt/dt/st)
+- 1-1/4" (tt/dt/st)
+- 1-3/8" (tt/dt/st)
+- 1-1/2" (dt)
+
+*** Tube Phase Blocks =$5=
+
+3d-print extra tube blocks to keep tubes "in-phase" until they are welded. Similar to tube blocks, but only used to hold in the correct orientation relative to a reference plane.
+
+*** Hole Saw Arbors
+
+Rigidly connect hole saws to Bridgeport mill using 3/4" R8 collet.
+
+Sizes:
+- 2x 1/2" 2-1/2"
+- 2x 5/8" 2-1/2"
+- 1x 1/2" 7-1/4"
+
+Dimensions:
+- 3/4" OD shank
+- Smaller 1/2"-20 thread for <=1-1/8" hole saws
+- Larger 5/8"-18 thread for >=1-1/4" hole saws, with reinforcement
+- Use longer length arbor for one-setup round dropout mitering with stay mitering fixtures
+
+*** Dummy Axles
+
+Space and index the dropouts throughout the framebuilding process, and provide a connection point to various fixtures.
+
+QR dummy axles are 2mm oversized to account for heat distortion (typically inwards).
+
+Sizes:
+- 100QR (standard front qr)
+- 100TA (standard front ta)
+- 110TA (boost front ta)
+- 120QR (track rear qr)
+- 130QR (standard rear qr)
+- 135QR (disc/mtb rear qr)
+- 142TA (disc/mtb rear ta, syntace)
+- 141QR (boost rear qr)
+- 148TA (boost rear ta, syntace)
+
+*** Dimpler
+
+Puts longitudinal dimples in chainstays to increase tire and/or chainring clearance, aided by a vise or the arbor press.
+
+*** Simple Tube Bender
+
+CNC wood dies and a welded steel handle, delrin v-groove wheel
+
+** To Purchase
+
+*** BikeCAD Pro Lifetime License (three machines) =$380=
+
+Industry-standard software for designing bike frames.
+
+https://www.bikecad.ca/
+
+*** Hole saws =$70=
+
+Sizes:
+- 3/4" (chainstays) =$8=
+- 1" (round dropouts) =$9=
+- 1-1/8" (seat tube) =$10=
+- 1-1/4" (l seat tube) =$10=
+- 1-3/8" (xl seat tube) =$11=
+- 1-1/2" (bsa bb) =$11=
+- 1-13/16" (46mm ht) =$11=
+
+TODO what about 36mm ht?
+
+*** 1/8" Slitting Saw and Arbor =$40=
+
+For:
+- Slotting seatstays for traditional tabbed/plate dropouts
+- Seatpost clamp slot
+- Making aluminum tube blocks
+
+Shars R8 arbor ($27), and cheap HSS slitting saws
+
+*** Dynafile (Handheld Pneumatic Belt Sander) =$300= (used)
+
+Including 11219 contact arm ($50 new).
+
+Allows bronze fillets to be finished significantly faster than by hand, also a good general-purpose metal finishing tool (welds, etc).
+
+** Already Have
+
+- Bridgeport mills
+- Horizontal bandsaw
+- Oxy-acetylene brazing setup
+- Hand files
+- Surface plate
