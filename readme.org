@@ -26,6 +26,8 @@ For positioning disc brake caliper mounts with all popular standards (IS, post m
 
 *** Dropout Gauge
 
+[[file:tools/dropout-gauge.org]]
+
 Quickly verifies correct dropout spacing.
 
 *** Braze-on Clamps (4) =$25=

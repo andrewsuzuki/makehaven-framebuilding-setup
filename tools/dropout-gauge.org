@@ -1,0 +1,47 @@
+#+TITLE: Dropout Gauge
+
+[[./dropout-gauge.png]]
+
+* Spacin
+
+(4 count, each with 4 spacings)
+
+- Front and Rear Vintage
+  - 100 (standard front)
+  - 110 (boost front)
+  - 120 (track rear)
+  - 126 (vintage road)
+- Rear Standard
+  - 130 (standard road)
+  - 135 (mtb/disc qr)
+  - 142 (disc ta)
+  - 145 (tandem)
+- Boost and Super-boost
+  - 141 (boost qr)
+  - 148 (boost ta)
+  - 150 (super-boost qr)
+  - 157 (super-boost ta)
+- Fat
+  - 170 (fat qr 4")
+  - 177 (fat ta 4")
+  - 190 (fat qr 5")
+  - 197 (fat ta 5")
+
+* Materials
+
+- .25" 6061 aluminum plate
+  - each is 72mm tall x the widest dropout spacing
+  - 72 x 126 => 9.0
+  - 72 x 145 => 10.4
+  - 72 x 157 => 11.3
+  - 72 x 197 => 14.2
+  - => 17.5 in3
+  - => ~$15
+
+** Cost
+
+$15
+
+* Fabrication
+
+Waterjet aluminum plate
