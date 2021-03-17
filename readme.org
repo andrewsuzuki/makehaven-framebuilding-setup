@@ -3,6 +3,7 @@
 * Funding
 
 Total cost: $2000
+
 Fundraising goal: $1000 (MakeHaven matches)
 
 * Location
@@ -27,7 +28,9 @@ For positioning disc brake caliper mounts with all popular standards (IS, post m
 
 Quickly verifies correct dropout spacing.
 
-*** Braze-on Clamps
+*** Braze-on Clamps (4) =$25=
+
+[[file:tools/braze-on-clamps.org]]
 
 Secures braze-ons to tubes while they are silver-brazed.
 

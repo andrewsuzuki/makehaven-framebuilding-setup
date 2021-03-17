@@ -1,0 +1,18 @@
+#+TITLE: Braze-on Clamps
+
+(4 count)
+
+* Materials
+
+- 0.5" 6061 aluminum plate. 8x5*0.5 = 20 in3, so about =$15=
+- M8 x 90mm fully-threaded bolts x 4, about =$10=
+
+** Cost
+
+$25
+
+* Fabrication
+
+Waterjet, then drill and tap hole in top for bolt.
+
+Two clamps can fit in a 4x5" piece of plate, so the total area used is about 8x5" (or 4*10").
