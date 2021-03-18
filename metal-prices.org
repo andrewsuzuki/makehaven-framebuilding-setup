@@ -1,0 +1,32 @@
+#+TITLE: Metal Prices
+
+Prices accessed 2021-03-17
+
+NOTE that OM (Online Metals) tends to go UP in prices for larger pieces, while SM (Speedy Metals) goes DOWN.
+
+There is little to no upcharge for custom cuts at Online Metals.
+
+* Aluminum
+
+** 6061 Plate
+
+- .25"
+  - OM $2.68/in3 (8x8")
+  - SM $1.66/in3 (12x12")
+- TODO .50"
+- TODO .75"
+- TODO 1.0"
+
+** 6061 Rectangular Bar
+
+...
+
+** 6061 Round Bar
+
+...
+
+* Stainless Steel
+
+** 303 Round Bar
+
+...

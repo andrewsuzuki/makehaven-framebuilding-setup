@@ -12,7 +12,7 @@ The frame jig will live in the welding area where the quenching tanks are curren
 
 * Tool Overview
 
-Most of the below tools and their BOMs (bills of materials) can be found in `tools`.
+Most of the below tools and their BOMs (bills of materials) can be found in [[./tools]]
 
 ** To Make
 
@@ -22,7 +22,9 @@ Fixtures frame for brazing or welding.
 
 *** Universal Disc Brake Fixture
 
-For positioning disc brake caliper mounts with all popular standards (IS, post mount, flat mount).
+[[file:tools/disc-brake-fixture.org]]
+
+Positions disc brake caliper mounts using any popular standard (IS, post mount, flat mount) and their variations.
 
 *** Dropout Gauges =$15=
 

@@ -1,0 +1,11 @@
+#+TITLE: Disc Brake Fixture
+
+[[./disc-brake-fixture.png]]
+
+Positions disc brake caliper mounts using any popular standard (IS, post mount, flat mount) and their variations.
+
+Clamps around the dummy axle.
+
+* TODO Materials
+
+* TODO Fabrication
