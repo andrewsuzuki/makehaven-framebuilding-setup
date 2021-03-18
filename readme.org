@@ -64,7 +64,9 @@ Holds curved tubing for seatstay/chainstay bridges and allows them to be mitered
 
 *** Universal Small-tube Mitering Fixture
 
-Fixtures small tapered tubes for mitering
+[[file:tools/small-tube-mitering-fixture.org]]
+
+Fixtures small, possibly-tapered tubes for mitering.
 
 *** Tube Blocks
 

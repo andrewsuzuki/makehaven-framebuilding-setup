@@ -36,7 +36,7 @@ This process uses a milling machine to miter tubes and joins tubes with bronze f
 23. Align entire frame.
 24. Miter and braze seatstay brake bridge.
 25. Miter and braze chainstay bridge.
-26. If using disc brakes, set up and braze the disc brake tab using the disc brake fixture. Setup will usually involve grinding and/or hand files to fit up with the left seatstay and/or chainstay.
+26. If using disc brakes, set up and braze the disc brake tab using the disc brake fixture. Setup will usually involve grinding and/or hand files to fit up with the left seatstay and/or chainstay. If mounted to the seatstay, also miter and braze a brace to the seatstay.
 27. Silver-braze braze-ons (water bottle bosses, shifter bosses, eyelets, etc) using braze-on clamp(s).
 28. Align entire frame.
 29. Remove flux with hot water (bath tub works well).

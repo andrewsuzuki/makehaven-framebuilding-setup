@@ -1,0 +1,22 @@
+#+TITLE: Small-Tube Mitering Fixture
+
+[[./small-tube-mitering-fixture.png]]
+
+Fixtures small, possibly-tapered tubes for mitering in a Bridgeport. These could be seatstays, brake bridges, or rack tubing.
+
+The width is 3", making it easy to pack the other side of the vise with a 1-2-3 block.
+
+Diameter range: 9.5mm to 19mm (.375" to .75")
+
+* Materials
+
+- 6061 aluminum rectangular bar
+  - 1.5x2x3" => 9 in3
+  - 1x1.5x1.5" => 2.25 in3
+  - => =~$10=
+- .5" 303 stainless round bar, 3" =$2=
+- M5 x ~40mm SHCS x2, =$2=
+
+** Cost
+
+$15
