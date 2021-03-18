@@ -1,0 +1,45 @@
+#+TITLE: Framebuilding Steps
+
+This is a brief overview of the framebuilding process. This will be expanded upon when the dedicated framebuilding manual is created.
+
+This process uses a milling machine to miter tubes and joins tubes with bronze fillet brazing. It also uses chainstays and seatstay sub-assembly/mitering fixtures.
+
+1. Design the frame in BikeCAD.
+2. Purchase tubes, dropouts, and braze-ons.
+3. Set up the frame fixture using setup parameters from BikeCAD.
+4. Drill four vent holes in the BB shell at approximate tube locations.
+5. Insert the BB shell into the frame fixture, using the correct puck for its width and diameter.
+6. Prepare the head tube (cut to final length + ~1mm, drill two vent holes) and place it in the fixture.
+7. Prepare the seat tube:
+   1. Cut to approximate length, just short enough so that the eventual hole saw only needs to contact it on one side. Use a hack saw, cold cut saw, or horizontal bandsaw. Debur.
+   2. Attach a phase block.
+   3. Mark the miter location (BB end), two water bottle boss locations, and vent hole locations (for seatstays and top tube).
+   4. Attach a tube block (in-phase with phase block using surface plate), then miter (1.5” for typical BSA shell) with Bridgeport. Find the tube center with an edge finder on the sides of the tube block.
+   5. Drill the water bottle boss and vent holes, repositioning the tube block closer if necessary.
+   6. Cut a slit at the top for the seatpost clamp. First drill a hole at the bottom (stress riser), then turn 90 degrees around the x axis and finish with a slitting saw.
+   7. Secure the seat tube in the frame fixture.
+8. Repeat for the rest of the main triangle (down tube, top tube). The down tube is mitered twice at the BB end, first for the BB, then a smaller notch for the seat tube. When in doubt, cut tubes longer than their intended lengths and check fit-up on the fixture, repeating until there is a close fit-up.
+9. Tack the main triangle.
+10. Remove the main triangle from the frame fixture, place in a bike stand, and braze the main triangle.
+11. Align.
+12. For round dropouts, miter the dropout end of the chainstays. For tabbed dropouts, slot with a slitting saw. For plug-style dropouts, simply cut to length.
+13. Secure the dropouts to a dummy axle and place them in the chainstay mitering fixture.
+14. Tack and braze the chainstays to dropouts (in chainstay fixture).
+15. Miter the chainstays at the bottom bracket by placing the entire fixture in the Bridgeport vise.
+16. If using flat mount disc brakes, miter NDS chainstay with an end mill.
+17. Remove the chainstays from the fixture and place in the frame fixture.
+18. Tack and braze the chainstays to the bottom bracket.
+19. Align the chainstays/dropouts.
+20. Miter/slot the dropout end of the seatstays.
+21. Place the seatstays in the seatstay mitering fixture, miter, remove from the seatstay fixture, and place in the frame fixture.
+22. Tack and braze the seatstays to the dropouts and seat tube.
+23. Align entire frame.
+24. Miter and braze seatstay brake bridge.
+25. Miter and braze chainstay bridge.
+26. If using disc brakes, set up and braze the disc brake tab using the disc brake fixture. Setup will usually involve grinding and/or hand files to fit up with the left seatstay and/or chainstay.
+27. Silver-braze braze-ons (water bottle bosses, shifter bosses, eyelets, etc) using braze-on clamp(s).
+28. Align entire frame.
+29. Remove flux with hot water (bath tub works well).
+30. Finish fillets with hand files, dynafile, die grinder, sandpaper, emery cloth, etc.
+31. Paint (spray paint or bring to powder coater).
+32. At a bike shop, chase/face bottom bracket, ream/face head tube, ream seat tube, align dropouts, chase water bottle bosses, eyelets, and derailleur hanger.

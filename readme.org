@@ -10,6 +10,12 @@ Fundraising goal: $1000 (MakeHaven matches)
 
 The frame jig will live in the welding area where the quenching tanks are currently located. The remaining tools can live in a bin or on a shelf.
 
+* Framebuilding Process
+
+Steps to build a bike frame:
+
+[[file:framebuilding-steps.org]]
+
 * Tool Overview
 
 Most of the below tools and their BOMs (bills of materials) can be found in [[./tools]].

@@ -6,8 +6,9 @@
 
 * Materials
 
-- 0.5" 6061 aluminum plate. 8x5*0.5 = 20 in3, so about =$15=
-- M8 x 90mm fully-threaded bolts x 4, about =$10=
+- 0.5" 6061 aluminum plate. 8x5*0.5 = 20 in3, =~$15=
+- M8 x 80mm fully-threaded bolts x 5, =$8=
+  - https://www.aliexpress.com/item/1005001436960623.html
 
 ** Cost
 
@@ -17,4 +18,6 @@ $25
 
 Waterjet, then drill and tap hole in top for bolt.
 
-Two clamps can fit in a 4x5" piece of plate, so the total area used is about 8x5" (or 4*10").
+Two clamps can fit in a 4x5" piece of plate, so the total area used is about 8x5" (or 4x10").
+
+The end of the bolt should be turned down to a point.
