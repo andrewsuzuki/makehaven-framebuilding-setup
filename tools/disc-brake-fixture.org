@@ -6,6 +6,8 @@ Positions disc brake caliper mounts using any popular standard (IS, post mount, 
 
 Clamps around the dummy axle.
 
+There's an arm for every standard that slots into the main body with precision dowel pins.
+
 * Standards
 
 - IS
@@ -22,8 +24,20 @@ Clamps around the dummy axle.
   - FM160R
   - FM180R
 
-* TODO Materials
+* Materials
 
-** TODO Cost
+- 1.0" 6061 aluminum plate, 4x4.2"
+  - 17 in3 => =~$15=
+- ~.5x.5x7" x2 303 stainless bar
+  - 3.5 in3 => =~$14=
+- ~.625x.625x8" x2 303 stainless bar
+  - 6.25 in3 => =~$25=
+- .25" stainless dowel pins x 10 =$7=
+  - https://www.mcmaster.com/stainless-steel-dowel-pins/dowel-pins-7/
+- M5 x 20mm SHCS x 2 => =~$2=
+
+** Cost
+
+$65
 
 * TODO Fabrication

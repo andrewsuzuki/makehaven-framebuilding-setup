@@ -16,6 +16,7 @@ Diameter range: 9.5mm to 19mm (.375" to .75")
   - => =~$10=
 - .5" 303 stainless round bar, 3" =$2=
 - M5 x ~40mm SHCS x2, =$2=
+  - or M6?
 
 ** Cost
 

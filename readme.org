@@ -22,13 +22,13 @@ Most of the below tools and their BOMs (bills of materials) can be found in [[./
 
 ** To Make
 
-*** Frame Fixture
+*** Frame Fixture =~$680=
 
 [[file:tools/frame-fixture.org]]
 
 Fixtures frame for brazing or welding.
 
-*** Universal Disc Brake Fixture
+*** Universal Disc Brake Fixture =$65=
 
 [[file:tools/disc-brake-fixture.org]]
 
@@ -62,7 +62,7 @@ Fixtures fork at the correct length and offset for brazing or welding.
 
 Holds curved tubing for seatstay/chainstay bridges and allows them to be mitered symmetrically in the bridgeport.
 
-*** Universal Small-tube Mitering Fixture
+*** Small-tube Mitering Fixture =$15=
 
 [[file:tools/small-tube-mitering-fixture.org]]
 
