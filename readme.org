@@ -12,7 +12,7 @@ The frame jig will live in the welding area where the quenching tanks are curren
 
 * Tool Overview
 
-Most of the below tools and their BOMs (bills of materials) can be found in [[./tools]]
+Most of the below tools and their BOMs (bills of materials) can be found in [[./tools]].
 
 ** To Make
 
@@ -116,11 +116,17 @@ CNC wood dies and a welded steel handle, delrin v-groove wheel
 
 ** To Purchase
 
-*** BikeCAD Pro Lifetime License (three machines) =$380=
+*** BikeCAD Pro Lifetime License (three machines) =$402=
 
 Industry-standard software for designing bike frames.
 
-https://www.bikecad.ca/
+https://www.bikecad.ca/bikecadpro
+
+*** Dynafile (Handheld Pneumatic Belt Sander), used =$300=
+
+With 11219 contact arm ($50 new).
+
+Allows bronze fillets to be finished significantly faster than by hand, also a good general-purpose metal finishing tool (welds, etc).
 
 *** Hole saws =$70=
 
@@ -143,12 +149,6 @@ For:
 - Making aluminum tube blocks
 
 Shars R8 arbor ($27), and cheap HSS slitting saws
-
-*** Dynafile (Handheld Pneumatic Belt Sander) =$300= (used)
-
-Including 11219 contact arm ($50 new).
-
-Allows bronze fillets to be finished significantly faster than by hand, also a good general-purpose metal finishing tool (welds, etc).
 
 ** Already Have
 

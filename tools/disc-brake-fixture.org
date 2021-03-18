@@ -6,6 +6,23 @@ Positions disc brake caliper mounts using any popular standard (IS, post mount, 
 
 Clamps around the dummy axle.
 
+* Standards
+
+- IS
+  - IS160F
+  - IS160R
+- Post Mount
+  - PM140
+  - PM160
+  - PM180
+  - PM203
+- Flat Mount
+  - FM140R
+  - FM160R
+  - FM180R
+
 * TODO Materials
+
+** TODO Cost
 
 * TODO Fabrication
