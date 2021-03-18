@@ -24,6 +24,8 @@ Most of the below tools and their BOMs (bills of materials) can be found in [[./
 
 *** Frame Fixture
 
+[[file:tools/frame-fixture.org]]
+
 Fixtures frame for brazing or welding.
 
 *** Universal Disc Brake Fixture

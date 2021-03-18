@@ -2,7 +2,7 @@
 
 This is a brief overview of the framebuilding process. This will be expanded upon when the dedicated framebuilding manual is created.
 
-This process uses a milling machine to miter tubes and joins tubes with bronze fillet brazing. It also uses chainstays and seatstay sub-assembly/mitering fixtures.
+This process uses a milling machine to miter tubes and joins tubes with bronze fillet brazing. It also uses chainstay and seatstay sub-assembly/mitering fixtures.
 
 1. Design the frame in BikeCAD.
 2. Purchase tubes, dropouts, and braze-ons.
@@ -43,3 +43,4 @@ This process uses a milling machine to miter tubes and joins tubes with bronze f
 30. Finish fillets with hand files, dynafile, die grinder, sandpaper, emery cloth, etc.
 31. Paint (spray paint or bring to powder coater).
 32. At a bike shop, chase/face bottom bracket, ream/face head tube, ream seat tube, align dropouts, chase water bottle bosses, eyelets, and derailleur hanger.
+33. Assemble the complete bike and ride!

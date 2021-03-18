@@ -1,0 +1,55 @@
+#+TITLE: Frame Fixture
+
+*WORK IN PROGRESS*
+
+It will support everything from small BMX frames to XL modern mountain bike frames (wide range of seat tube lengths/diameters, head tube lengths/diameters, bottom bracket widths/diameters, dropouts, dropout spacings, HT/ST angles, chainstay lengths, top tube lengths, and BB drops).
+
+It will be composed of t-slot aluminum extrusion and machined aluminum/steel connecting pieces.
+
+It should support TIG-welding exotic alloys (titanium, stainless) with an integrated purge gas (argon) system.
+
+Unlike most frame fixtures with adjustable HT and ST angles, this fixture attempts to simplify things by having only one angle to adjust, which is the difference between the two. This reduces tolerance stack-up, increases rigidity, reduces cost, and is one less thing to adjust.
+
+The bottom bracket center axis is a fixed datum, unlike many designs where it floats depending on ST angle.
+
+The frame should be easy to remove and reattach without losing adjustment.
+
+The fixture's stand should allow x/y rotation (and possibly height adjustment, TODO).
+
+* TODO Materials
+
+** TODO Cost
+
+*** Approximation
+
+- Extrusion (Misumi w/ shipping): $190
+- 6061 aluminum: $170
+- 304 stainless: $120
+- Hardware (toggle clamp, bolts, bolt clamp handles, t-nuts): $70-120
+- Stand: $100
+
+$680
+
+* Fabrication
+
+Waterjet, CNC, and Bridgeport.
+
+* Setup Parameters
+
+Below x/y are relative to the BB's center axis.
+
+- ST-HT angle (difference)
+- BB-DropoutX
+  - "JFX" in BikeCAD
+    - Does it account for rotation?
+  - = CSlength * cos(90 - HTA + arcsin(BBdrop/CSlength))
+- BB-DropoutY
+  - "JFY" in BikeCAD
+    - Does it account for rotation?
+  - = CSlength * sin(90 - HTA + arcsin(BBdrop/CSlength))
+- BB-HeadtubeBottomX
+  - "Head tube bottom (Bike Machinery X)" in BikeCAD
+  - = sqrt(stack^2 + reach^2) * sin(180 - HTA - arctan(stack/reach))
+- BB-HeadtubeBottomY
+  - "Head tube bottom (Bike Machinery Y)" in BikeCAD
+  - = sqrt(stack^2 + reach^2) * cos(180 - HTA - arctan(stack/reach)) - HTlength
