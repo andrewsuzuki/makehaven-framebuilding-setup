@@ -28,7 +28,7 @@ Most of the below tools and their BOMs (bills of materials) can be found in [[./
 
 Fixtures frame for brazing or welding.
 
-*** Universal Disc Brake Fixture =$65=
+*** Universal Disc Brake Fixture =$42=
 
 [[file:tools/disc-brake-fixture.org]]
 

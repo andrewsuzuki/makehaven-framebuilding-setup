@@ -2,6 +2,8 @@
 
 *WORK IN PROGRESS*
 
+[[./frame-fixture.png]]
+
 It will support everything from small BMX frames to XL modern mountain bike frames (wide range of seat tube lengths/diameters, head tube lengths/diameters, bottom bracket widths/diameters, dropouts, dropout spacings, HT/ST angles, chainstay lengths, top tube lengths, and BB drops).
 
 It will be composed of t-slot aluminum extrusion and machined aluminum/steel connecting pieces.
