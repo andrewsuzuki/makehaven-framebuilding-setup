@@ -1,0 +1,92 @@
+#+TITLE: Member Cost Per Frame
+
+How much will it cost a MakeHaven member to build a frame?
+
+* Fixed Costs
+
+- Bridgeport Mill Training (if not taken already) =$150=
+
+* Per Frame
+
+- Tubeset =$100-200=
+  - BB Shell $6
+  - HT $10
+  - ST $15-40
+  - DT $15-40
+  - TT $15-30
+  - SS $15-30
+  - CS $20-40
+- Dropouts =$10-100=
+- Braze-ons, disc tab, bosses, etc =$10=
+- Spray paint or professional powdercoat =$30/100=
+- Finishing at bike shops =$25=
+
+** Examples
+
+*** Road/Fixie/SS Budget
+
+Columbus Cromor, tabbed dropouts, spray-painted
+
+- BB Shell $6
+- HT $10
+- ST $15
+- DT $15
+- TT $13
+- SS $20
+- CS $20
+- Dropouts $15
+- Spray paint $30
+- [Rest] $35
+
+Total: $180
+
+*** Road Reliable Touring/Commuter
+
+Columbus Zona, tabbed dropouts, powdercoated
+
+- BB Shell $6
+- HT $10
+- ST $30
+- DT $25
+- TT $20
+- SS $20
+- CS $30
+- Dropouts $15
+- Powdercoat $100
+- [Rest] $35
+
+Total: $290
+
+*** Road Race (Nice)
+
+Columbus Life, Paragon round dropouts, powdercoated
+
+- BB Shell $6
+- HT $10
+- ST $30
+- DT $40
+- TT $32
+- SS $20
+- CS $40
+- Dropouts $55
+- Powdercoat $100
+- [Rest] $35
+
+Total: $370
+
+*** Modern Thru-axle MTB
+
+Bent ST w/ collar, XL tubing, Syntace dropouts, powdercoated
+
+- BB Shell $6
+- HT $10
+- ST $40
+- DT $35
+- TT $25
+- SS $20
+- CS $20
+- Dropouts + thru axle $100
+- Powdercoat $100
+- [Rest] $35
+
+Total: $400

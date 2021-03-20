@@ -16,6 +16,10 @@ Steps to build a bike frame:
 
 [[file:framebuilding-steps.org]]
 
+Cost for a MakeHaven member to build a frame:
+
+[[file:member-cost-per-frame.org]]
+
 * Tool Overview
 
 Most of the below tools and their BOMs (bills of materials) can be found in [[./tools]].
@@ -67,6 +71,10 @@ Holds curved tubing for seatstay/chainstay bridges and allows them to be mitered
 [[file:tools/small-tube-mitering-fixture.org]]
 
 Fixtures small, possibly-tapered tubes for mitering.
+
+*** Head Tube Reamer/Facer
+
+Reams/face head tube. The actual cutters will be purchased (priced separately), see below.
 
 *** Tube Blocks
 
@@ -137,6 +145,14 @@ https://www.bikecad.ca/bikecadpro
 With 11219 contact arm ($50 new).
 
 Allows bronze fillets to be finished significantly faster than by hand, also a good general-purpose metal finishing tool (welds, etc).
+
+*** Head Tube Reamer/Facer Cutters
+
+Sizes:
+- 43.95mm reamer (#788), $85
+- 57mm facer (#690-XL), $106
+
+TODO Borrow 34mm from Devil's Gear?
 
 *** Hole saws =$70=
 
