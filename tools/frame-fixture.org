@@ -40,16 +40,12 @@ Waterjet, CNC, and Bridgeport.
 
 Below x/y are relative to the BB's center axis.
 
-TODO Equations should be verified (napkin math).
-
 - ST-HT angle (difference)
 - BB-DropoutX
   - "JFX" in BikeCAD
-    - Does it account for rotation?
   - =CSlength * cos(90 - HTA + arcsin(BBdrop/CSlength))=
 - BB-DropoutY
   - "JFY" in BikeCAD
-    - Does it account for rotation?
   - =CSlength * sin(90 - HTA + arcsin(BBdrop/CSlength))=
 - BB-HeadtubeBottomX
   - "Head tube bottom (Bike Machinery X)" in BikeCAD

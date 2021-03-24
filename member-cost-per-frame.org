@@ -18,8 +18,8 @@ How much will it cost a MakeHaven member to build a frame?
   - CS $20-40
 - Dropouts =$10-100=
 - Braze-ons, disc tab, bosses, etc =$10=
-- Spray paint or professional powdercoat =$30/100=
-- Finishing at bike shops =$25=
+- Spray paint or professional powdercoat =$30= or =$100=
+- Ream/face/chase at BSBC =$10=
 
 ** Examples
 
@@ -36,9 +36,9 @@ Columbus Cromor, tabbed dropouts, spray-painted
 - CS $20
 - Dropouts $15
 - Spray paint $30
-- [Rest] $35
+- [Rest] $20
 
-Total: $180
+Total: $165
 
 *** Road Reliable Touring/Commuter
 
@@ -53,9 +53,9 @@ Columbus Zona, tabbed dropouts, powdercoated
 - CS $30
 - Dropouts $15
 - Powdercoat $100
-- [Rest] $35
+- [Rest] $20
 
-Total: $290
+Total: $275
 
 *** Road Race (Nice)
 
@@ -70,9 +70,9 @@ Columbus Life, Paragon round dropouts, powdercoated
 - CS $40
 - Dropouts $55
 - Powdercoat $100
-- [Rest] $35
+- [Rest] $20
 
-Total: $370
+Total: $355
 
 *** Modern Thru-axle MTB
 
@@ -87,6 +87,6 @@ Bent ST w/ collar, XL tubing, Syntace dropouts, powdercoated
 - CS $20
 - Dropouts + thru axle $100
 - Powdercoat $100
-- [Rest] $35
+- [Rest] $20
 
-Total: $400
+Total: $385

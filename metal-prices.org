@@ -11,9 +11,9 @@ There is little to no upcharge for custom cuts at Online Metals.
 ** 6061 Plate
 
 - .25"
-- OM $2.68/in3 (8x8")
+- OM $0.76/in3 (8x8")
   - https://www.onlinemetals.com/en/buy/aluminum/0-25-aluminum-plate-6061-t651/pid/1248
-- SM $1.66/in3 (12x12")
+- SM $0.74/in3 (12x12")
   - https://www.speedymetals.com/pc-2408-8360-14-6061-t651-aluminum-plate.aspx
 - TODO .50"
 - TODO .75"
@@ -30,5 +30,6 @@ There is little to no upcharge for custom cuts at Online Metals.
 * Stainless Steel
 
 ** 303 Round Bar
+(about $2.20/in3)
 
 ...
