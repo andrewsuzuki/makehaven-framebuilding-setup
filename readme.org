@@ -154,7 +154,7 @@ Sizes:
 
 (Devil's Gear has 34mm reamer)
 
-*** Hole saws =$70=
+*** Hole saws =$82=
 
 Sizes:
 - 3/4" (chainstays) =$8=
@@ -162,10 +162,9 @@ Sizes:
 - 1-1/8" (seat tube) =$10=
 - 1-1/4" (l seat tube) =$10=
 - 1-3/8" (xl seat tube) =$11=
+- 1-27/64" / 36mm Ruko (36mm ht) =$11=
 - 1-1/2" (bsa bb) =$11=
 - 1-13/16" (46mm ht) =$11=
-
-TODO what about 36mm ht?
 
 *** 1/8" Slitting Saw and Arbor =$40=
 
@@ -183,3 +182,38 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
 - Oxy-acetylene brazing setup
 - Hand files
 - Surface plate
+
+* TODO
+
+- chainstay mitering fixture
+  - 50mm extrusion
+  - .75" vise plate
+  - tire profile mount
+  - thinner arrow?
+  - metricification
+- seatstay mitering fixture
+  - model
+- bridge mitering fixture
+  - model
+- frame fixture
+  - 50mm extrusion columns
+  - 160x80mm extrusion spine
+  - .75" st plate
+  - st column preload (or clamping system)
+  - metricification
+- disc brake fixture
+  - add flat mount 160, 180
+  - make easier to fixture/machine
+  - metrification
+- dummy axles
+  - model
+- tube blocks
+  - model
+- ht reamer/facer
+  - model
+- hole saw arbors
+  - model
+- dimpler
+  - model
+- simple tube bender
+  - model

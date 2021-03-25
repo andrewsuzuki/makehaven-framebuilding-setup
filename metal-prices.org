@@ -2,8 +2,6 @@
 
 Prices accessed 2021-03-17
 
-NOTE that OM (Online Metals) tends to go UP in prices for larger pieces, while SM (Speedy Metals) goes DOWN.
-
 There is little to no upcharge for custom cuts at Online Metals.
 
 * Aluminum
@@ -33,3 +31,8 @@ There is little to no upcharge for custom cuts at Online Metals.
 (about $2.20/in3)
 
 ...
+
+* Steel
+
+** 1018 Round Bar
+(about $1/in3)
