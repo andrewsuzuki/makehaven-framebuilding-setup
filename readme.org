@@ -132,6 +132,8 @@ Puts longitudinal dimples in chainstays to increase tire and/or chainring cleara
 
 CNC wood dies and a welded steel handle, delrin v-groove wheel
 
+*** Bent Seat Tube Mitering Fixture
+
 ** To Purchase
 
 *** BikeCAD Pro Lifetime License (three machines) =$402=
@@ -154,9 +156,10 @@ Sizes:
 
 (Devil's Gear has 34mm reamer)
 
-*** Hole saws =$82=
+*** Hole saws =$90=
 
 Sizes:
+- 5/8" (vent holes) =$8=
 - 3/4" (chainstays) =$8=
 - 1" (round dropouts) =$9=
 - 1-1/8" (seat tube) =$10=
@@ -183,37 +186,47 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
 - Hand files
 - Surface plate
 
-* TODO
+* TODO TODO
 
+- frame fixture
+  - model v2
+  - BOM
 - chainstay mitering fixture
   - 50mm extrusion
   - .75" vise plate
   - tire profile mount
   - thinner arrow?
   - metricification
+  - BOM
 - seatstay mitering fixture
   - model
+  - BOM
 - bridge mitering fixture
   - model
-- frame fixture
-  - 50mm extrusion columns
-  - 160x80mm extrusion spine
-  - .75" st plate
-  - st column preload (or clamping system)
-  - metricification
+  - BOM
 - disc brake fixture
   - add flat mount 160, 180
   - make easier to fixture/machine
   - metrification
+  - Final BOM
 - dummy axles
   - model
+  - BOM
 - tube blocks
-  - model
+  - BOM
 - ht reamer/facer
   - model
+  - BOM
 - hole saw arbors
   - model
+  - BOM
 - dimpler
   - model
+  - BOM
 - simple tube bender
   - model
+  - BOM
+- bent st mitering fixture?
+  - model
+  - BOM
+- stem fixture?
