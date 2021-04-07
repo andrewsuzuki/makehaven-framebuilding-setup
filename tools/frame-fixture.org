@@ -24,13 +24,26 @@ The fixture's stand should allow x/y rotation (and possibly height adjustment, T
 
 *** Approximation
 
-- Extrusion (Misumi w/ shipping): $190
-- 6061 aluminum: $170
-- 304 stainless: $120
+- Extrusion (Misumi w/ shipping): =$335= (including shipping)
+  - 160x80 hfs8 1420mm $215
+  - 50x50 hfs8 1800mm $70
+  - shipping (ups ground) 15kg + 6.2kg = 21.2kg => $50
+- 6061 aluminum: =$200=
+  - base plates 5/8"
+    - 2" x 2" x 4 => $8
+    - 4.5 x 6.5" x 2 => $35
+  - st base plate 3/4" (not including cutoff savings)
+    - 18 x 8" => $86
+  - 22mm basic standoffs 2x.875" (or 1"?)
+    - 171*3 = 21" => $30
+  - st cone standoff 1" plate 8 x 5 => $28
+  - TODO st base
+  - TODO DAH
+- 303 stainless: $120
 - Hardware (toggle clamp, bolts, bolt clamp handles, t-nuts): $70-120
 - Stand: $100
 
-$680
+$835
 
 * Fabrication
 

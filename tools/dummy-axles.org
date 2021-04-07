@@ -34,7 +34,6 @@ Front dummy axles have a 1.375" wide middle section. Rear dummy axles have a 2.5
 - 1": 600 total internal lengths + 5*(2.92*2 indexers + 10 kerf) = 679.2 (26.8")
   - buy 1.125", 36" (extra 9") =$76.33=
 - M6 x 20 SHCS x20 =$6=
-- M6 washers x20 =$1=
 
 Total: $132
 

@@ -1,0 +1,37 @@
+#+TITLE: Tube Blocks
+
+Holds a specific diameter of tubing at the correct orientation in the bridgeport for mitering, or on the surface plate.
+
+* Sizes
+
+- 3/4" (round chainstays; holding hole saw arbors for removal)
+  - 1-1/2" SQ, 2" long
+- 1" (traditional tt)
+  - +1-3/4" SQ, 2" long+
+  - +2" SQ, 2" long+
+  - 2-1/4" SQ, 2-1/4" long (not offered by Paragon, but consistent with others)
+- 1-1/8" (tt/dt/st)
+  - +1-3/4" SQ, 2" long+
+  - +2" SQ, 2" long+
+  - 2-1/4" SQ, 2-1/4" long
+- 1-1/4" (tt/dt/st)
+  - +2" SQ, 2" long+
+  - 2-1/4" SQ, 2-1/4" long
+- 1-3/8" (tt/dt/st)
+  - +2" SQ, 2" long+
+  - 2-1/4" SQ, 2-1/4" long
+- 1-1/2" (dt)
+  - 2-1/4" SQ, 2-1/4" long
+
+* Materials
+
+6061 aluminum, 2-1/2" square extruded bar, 6 blocks 2-1/2" long (accounts for kerf)
+6*2.5 = 15"
+
+** Cost
+
+15" of square bar is =$75= at OM incl. tax
+
+* Fabrication
+
+Drill + bore in mill
