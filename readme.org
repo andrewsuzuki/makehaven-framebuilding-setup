@@ -76,7 +76,7 @@ Fixtures small, possibly-tapered tubes for mitering.
 
 Reams/face head tube. The actual cutters will be purchased (priced separately), see below.
 
-*** Tube Blocks =$75=
+*** Tube Blocks =$46=
 
 [[file:tools/tube-blocks.org]]
 
@@ -86,22 +86,13 @@ Holds a specific diameter of tubing at the correct orientation in the bridgeport
 
 3d-print extra tube blocks to keep tubes "in-phase" until they are welded. Similar to tube blocks, but only used to hold in the correct orientation relative to a reference plane.
 
-*** Hole Saw Arbors
+*** Hole Saw Arbors =$20=
+
+[[file:tools/hole-saw-arbors.org]]
 
 Rigidly connect hole saws to Bridgeport mill using 3/4" R8 collet.
 
-Sizes:
-- 2x 1/2" 2-1/2"
-- 2x 5/8" 2-1/2"
-- 1x 1/2" 7-1/4"
-
-Dimensions:
-- 3/4" OD shank
-- Smaller 1/2"-20 thread for <=1-1/8" hole saws
-- Larger 5/8"-18 thread for >=1-1/4" hole saws, with reinforcement
-- Use longer length arbor for one-setup round dropout mitering with stay mitering fixtures
-
-*** Dummy Axles =$132=
+*** Dummy Axles =$112=
 
 [[file:tools/dummy-axles.org]]
 
@@ -197,12 +188,7 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
   - consider bolt-on inserts for different diameters/offsets (like lichen)
   - metrification
   - Final BOM
-- tube blocks
-  - BOM
 - ht reamer/facer
-  - model
-  - BOM
-- hole saw arbors
   - model
   - BOM
 - dimpler

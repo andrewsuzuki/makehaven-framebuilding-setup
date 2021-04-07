@@ -1,5 +1,7 @@
 #+TITLE: Tube Blocks
 
+[[./tube-blocks.png]]
+
 Holds a specific diameter of tubing at the correct orientation in the bridgeport for mitering, or on the surface plate.
 
 * Sizes
@@ -31,6 +33,7 @@ Holds a specific diameter of tubing at the correct orientation in the bridgeport
 ** Cost
 
 15" of square bar is =$75= at OM incl. tax
+15" of square bar is =$46= at MSS incl. ship
 
 * Fabrication
 
