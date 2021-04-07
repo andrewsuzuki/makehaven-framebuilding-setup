@@ -1,0 +1,50 @@
+#+TITLE: Dummy Axles
+
+[[./dummy-axles.png]]
+
+Space and index the dropouts throughout the framebuilding process, and provide a connection point to various fixtures.
+
+QR rear dummy axles are 2mm oversized to account for heat distortion (typically inwards). TA dummy axles and QR front dummy axles are exact.
+
+QR dummy axles typically have a .75" OD. TA dummy axles typically have a 1" OD.
+
+Front dummy axles have a 1.375" wide middle section. Rear dummy axles have a 2.5" wide middle section.
+
+* Sizes
+
+- 100x9QR (standard front qr), .75" OD, oversize
+- 100x12TA (standard front ta road), 1" OD, exact, PARAGON
+- 100x15TA (standard front ta mtb), 1" OD, exact, PARAGON
+- 110x15TA (boost front ta mtb), 1" OD, exact, PARAGON
+- 120x10QR (track rear qr), .75" OD, oversize
+- 130x10QR (standard rear qr), .75" OD, oversize
+- 135x10QR (disc/mtb rear qr), .75" OD, oversize
+- 142x12TA (disc/mtb rear ta), 1" OD, exact, SYNTACE
+- 141x10QR (boost rear qr), .75" OD, oversize
+- 148x12TA (boost rear ta), 1"OD, exact, SYNTACE
+
+* Materials
+
+303 stainless round
+
+** Cost
+
+- .75": 636 total internal lengths + 5*(2.92*2 indexers + 10 kerf) = 715.2 (28.2")
+  - buy 7/8", 36" (extra 8") =$48.13=
+- 1": 600 total internal lengths + 5*(2.92*2 indexers + 10 kerf) = 679.2 (26.8")
+  - buy 1.125", 36" (extra 9") =$76.33=
+- M6 x 20 SHCS x20 =$6=
+- M6 washers x20 =$1=
+
+Total: $132
+
+* Fabrication
+
+Turn most of it on the lathe. Make a custom fixture to hold them vertically in the mill to machine the end indexers.
+
+The square shoulder for the middle section should retain the small fillet from the turning tool (likely 1/16" radius). The accepting tools will have a chamfer or similar relief to provide clearance.
+
+The actual middle width is .003" oversized.
+
+TODO CAPS (model + cost + fab)
+TODO longer TA CAPS? (see farr photo)

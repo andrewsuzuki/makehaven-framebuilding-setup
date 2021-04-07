@@ -107,22 +107,13 @@ Dimensions:
 - Larger 5/8"-18 thread for >=1-1/4" hole saws, with reinforcement
 - Use longer length arbor for one-setup round dropout mitering with stay mitering fixtures
 
-*** Dummy Axles
+*** Dummy Axles =$132=
+
+[[file:tools/dummy-axles.org]]
 
 Space and index the dropouts throughout the framebuilding process, and provide a connection point to various fixtures.
 
-QR dummy axles are 2mm oversized to account for heat distortion (typically inwards).
-
-Sizes:
-- 100QR (standard front qr)
-- 100TA (standard front ta)
-- 110TA (boost front ta)
-- 120QR (track rear qr)
-- 130QR (standard rear qr)
-- 135QR (disc/mtb rear qr)
-- 142TA (disc/mtb rear ta, syntace)
-- 141QR (boost rear qr)
-- 148TA (boost rear ta, syntace)
+Variety of sizes for popular dropout/hub standards.
 
 *** Dimpler
 
@@ -188,6 +179,8 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
 
 * TODO TODO
 
+(search repo for scattered TODOs as well)
+
 - frame fixture
   - model v2
   - BOM
@@ -209,9 +202,6 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
   - make easier to fixture/machine
   - metrification
   - Final BOM
-- dummy axles
-  - model
-  - BOM
 - tube blocks
   - BOM
 - ht reamer/facer
@@ -230,3 +220,5 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
   - model
   - BOM
 - stem fixture?
+- main tube holder mitering?
+- head tube badge die?
