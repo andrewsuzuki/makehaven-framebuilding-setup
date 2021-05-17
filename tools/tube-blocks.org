@@ -32,7 +32,7 @@ Holds a specific diameter of tubing at the correct orientation in the bridgeport
 
 ** Cost
 
-15" of square bar is =$75= at OM incl. tax
++15" of square bar is =$75= at OM incl. tax+
 15" of square bar is =$46= at MSS incl. ship
 
 * Fabrication

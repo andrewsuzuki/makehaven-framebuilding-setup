@@ -30,6 +30,7 @@ Front dummy axles have a 1.375" wide middle section. Rear dummy axles have a 2.5
 ** Cost
 
 - .75": 636 total internal lengths + 5*(2.92*2 indexers + 10 kerf) = 715.2 (28.2")
+  - washers: 5*(4+parting tool kerf)*2 = TODO
   - buy 7/8", 29" =$43= (MSS)
 - 1": 600 total internal lengths + 5*(2.92*2 indexers + 10 kerf) = 679.2 (26.8")
   - buy 1.125", 28" =$63= (MSS)
@@ -45,5 +46,5 @@ The square shoulder for the middle section should retain the small fillet from t
 
 The actual middle width is .003" oversized.
 
-TODO CAPS (model + cost + fab)
-TODO longer TA CAPS? (see farr photo)
+TODO washers (cost + fab)
+TODO longer TA shoulder-washers? (see farr photo)

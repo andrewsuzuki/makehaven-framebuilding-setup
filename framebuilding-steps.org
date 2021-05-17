@@ -42,5 +42,11 @@ This process uses a milling machine to miter tubes and joins tubes with bronze f
 29. Remove flux with hot water (bath tub works well).
 30. Finish fillets with hand files, dynafile, die grinder, sandpaper, emery cloth, etc.
 31. Paint (spray paint or bring to powder coater).
-32. At a bike shop, chase/face bottom bracket, ream/face head tube, ream seat tube, align dropouts, chase water bottle bosses, eyelets, and derailleur hanger.
+32. At a bike shop, chase/face bottom bracket, ream/face head tube, ream seat tube, align dropouts, chase water bottle bosses, eyelets, and derailleur hanger. Coat inside of frame with an aerosol rust inhibitor (JP Weigle / Problem Solvers Frame saver or Amsoil MPHD).
 33. Assemble the complete bike and ride!
+
+* Links
+
+Sean Handerhan Process: https://handerhancycles.com/process/
+
+Paul Brodie 67 framebuilding steps (handout from class): https://web.archive.org/web/20170606150541/https://www.retrobike.co.uk/articles/67-framebuilding-steps-with-paul-brodie/

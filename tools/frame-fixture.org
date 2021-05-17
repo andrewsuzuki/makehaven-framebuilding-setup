@@ -22,6 +22,8 @@ The fixture's stand should allow x/y rotation (and possibly height adjustment, T
 
 ** TODO Cost
 
+TODO use MSS metal prices
+
 *** Approximation
 
 - Extrusion (Misumi w/ shipping): =$335= (including shipping)
@@ -33,17 +35,19 @@ The fixture's stand should allow x/y rotation (and possibly height adjustment, T
     - 2" x 2" x 4 => $8
     - 4.5 x 6.5" x 2 => $35
   - st base plate 3/4" (not including cutoff savings)
-    - 18 x 8" => $86
+    - 18 x 8" => $56 (MSS shipped)
   - 22mm basic standoffs 2x.875" (or 1"?)
     - 171*3 = 21" => $30
   - st cone standoff 1" plate 8 x 5 => $28
   - TODO st base
   - TODO DAH
-- 303 stainless: $120
+- 303 stainless: $90 (MSS)
+  - 200mm + 70 + 25*3 + 25*3 (2" bar, final bom use smaller dia)
 - Hardware (toggle clamp, bolts, bolt clamp handles, t-nuts): $70-120
 - Stand: $100
+- Tools: M12 tap, NPT tap
 
-$835
+$800
 
 * Fabrication
 

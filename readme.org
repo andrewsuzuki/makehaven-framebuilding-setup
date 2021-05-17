@@ -26,7 +26,7 @@ Most of the below tools and their BOMs (bills of materials) can be found in [[./
 
 ** To Make
 
-*** Frame Fixture =~$680=
+*** Frame Fixture =~$835=
 
 [[file:tools/frame-fixture.org]]
 
@@ -108,7 +108,23 @@ Puts longitudinal dimples in chainstays to increase tire and/or chainring cleara
 
 CNC wood dies and a welded steel handle, delrin v-groove wheel
 
-*** Bent Seat Tube Mitering Fixture
+*** Bent Seat Tube Mitering/Slotting Fixture
+
+For:
+- ST-BB miter
+- Internal dropper port slot (w/ end mill)
+- Seatpost clamp slot (w/ slitting saw) (holding entire frame, if compatible)
+
+*** Wheel Tool
+
+Uses/attachments:
+- Canti boss holder
+- Road caliper brake bridge holder
+- Fender boss bridge holder
+- Plain-tube bridge holder
+- Tire clearance checker
+- Rear rack boss holder
+- Stay holder plate?
 
 ** To Purchase
 
@@ -135,13 +151,14 @@ Sizes:
 *** Hole saws =$90=
 
 Sizes:
-- 5/8" (vent holes) =$8=
+- 5/8" (vent holes and paragon flat mount bosses) =$8=
 - 3/4" (chainstays) =$8=
 - 1" (round dropouts) =$9=
 - 1-1/8" (seat tube) =$10=
 - 1-1/4" (l seat tube) =$10=
 - 1-3/8" (xl seat tube) =$11=
 - 1-27/64" / 36mm Ruko (36mm ht) =$11=
+  - (1-7/16" (36.5mm) is probably ok instead)
 - 1-1/2" (bsa bb) =$11=
 - 1-13/16" (46mm ht) =$11=
 
@@ -154,12 +171,15 @@ For:
 
 Shars R8 arbor ($27), and cheap HSS slitting saws
 
+*** Round files
+
+Already have flat files, but few round/half-round files.
+
 ** Already Have
 
 - Bridgeport mills
 - Horizontal bandsaw
 - Oxy-acetylene brazing setup
-- Hand files
 - Surface plate
 
 * TODO TODO
@@ -167,14 +187,14 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
 (search repo for scattered TODOs as well)
 
 - frame fixture
-  - model v2
+  - model v4
   - BOM
 - chainstay mitering fixture
-  - 50mm extrusion
+  - Consider replacing extrusion with aluminum spine
   - .75" vise plate
   - tire profile mount
   - thinner arrow?
-  - metricification
+  - more metric
   - BOM
 - seatstay mitering fixture
   - model
@@ -185,21 +205,49 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
 - disc brake fixture
   - add flat mount 160, 180
   - make easier to fixture/machine
-  - consider bolt-on inserts for different diameters/offsets (like lichen)
-  - metrification
+    - consider bolt-on inserts for different diameters/offsets (like lichen)
+  - more metric
   - Final BOM
-- ht reamer/facer
+- ht reamer/facer handles
   - model
   - BOM
 - dimpler
   - model
   - BOM
-- simple tube bender
-  - model
-  - BOM
-- bent st mitering fixture?
-  - model
-  - BOM
-- stem fixture?
-- main tube holder mitering?
-- head tube badge die?
+- fork raker
+- tube bender
+- wheel tool
+- fd fixture
+- butt checker
+- simple main tube mitering fixture
+- dt-st "bird's notch" miter locator
+- bent st mitering/slotting fixture
+- cal-x-tender or giant calipers for frame fixture setup and tube length measurements
+- soft bb pucks for vise (or just old fixed cups with threads removed)
+- soft ht-steerer pucks for transport
+- alignment tools
+- canti post mitering fixture (double like cobra)?
+- wood tube blocks for vise / hand-file mitering
+- fork jig
+- thru-axle h-tool
+
+** Not right now
+
+- Time savers
+  - Main tube mitering fixture setup with interlocking v-block, phasing block, and on-center rotary table
+  - Water bottle boss drilling jig
+    - Konga: "It’s not really that necessary. It will save some time when you don’t have to measure everything every time and it will help you when adding bottle bosses afterwards but you can really do the job with center drill and drill too."
+- Low use
+  - Stem fixture
+  - Lug vise
+  - Fork/wishbone mitering fixture
+- TIG
+  - TIG heat sinks / purges
+  - high temperature tape to cover purge holes (like mark at chumba) (Kapton tape?)
+- Other
+  - Gasflux Model 69 gasfluxer ($$)
+  - Hole saw actual cutting diameter gauge (my idea)
+  - Head tube badge arbor press die
+  - Seat collar welding fixture
+  - DT shifter boss fixture
+  - Abrasive mitering setup
