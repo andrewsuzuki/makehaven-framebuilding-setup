@@ -8,7 +8,7 @@ Fundraising goal: $1000 (MakeHaven matches)
 
 * Location
 
-The frame jig will live in the welding area where the quenching tanks are currently located. The remaining tools can live in a bin or on a shelf.
+The frame fixture will live in the welding area where the quenching tanks are currently located. The remaining tools can live in a bin or on a shelf.
 
 * Framebuilding Process
 
@@ -58,7 +58,7 @@ Holds seatstays in the bridgeport for mitering at the BB and dropouts.
 
 Holds seatstays in the bridgeport for mitering at the seat tube and dropouts.
 
-*** Fork Fixture
+*** Fork Welding Fixture
 
 Fixtures fork at the correct length and offset for brazing or welding.
 
@@ -76,15 +76,21 @@ Fixtures small, possibly-tapered tubes for mitering.
 
 Reams/face head tube. The actual cutters will be purchased (priced separately), see below.
 
-*** Tube Blocks =$46=
+*** Aluminum Tube Blocks =$46=
 
 [[file:tools/tube-blocks.org]]
 
 Holds a specific diameter of tubing at the correct orientation in the bridgeport for mitering, or on the surface plate.
 
-*** Tube Phase Blocks =$5=
+*** Plastic Tube Phase Blocks =$5=
 
 3d-print extra tube blocks to keep tubes "in-phase" until they are welded. Similar to tube blocks, but only used to hold in the correct orientation relative to a reference plane.
+
+*** Wood Tube Blocks for Bench Vise =$0=
+
+[[file:tools/wood-tube-blocks.org]]
+
+Hold tubes in the bench vise for mitering with hand files.
 
 *** Hole Saw Arbors =$20=
 
@@ -104,27 +110,33 @@ Variety of sizes for popular dropout/hub standards.
 
 Puts longitudinal dimples in chainstays to increase tire and/or chainring clearance, aided by a vise or the arbor press.
 
-*** Simple Tube Bender
+*** Simple Fork Blade Bender
 
 CNC wood dies and a welded steel handle, delrin v-groove wheel
-
-*** Bent Seat Tube Mitering/Slotting Fixture
-
-For:
-- ST-BB miter
-- Internal dropper port slot (w/ end mill)
-- Seatpost clamp slot (w/ slitting saw) (holding entire frame, if compatible)
 
 *** Wheel Tool
 
 Uses/attachments:
 - Canti boss holder
+- Canti cable stop holder
 - Road caliper brake bridge holder
 - Fender boss bridge holder
 - Plain-tube bridge holder
 - Tire clearance checker
 - Rear rack boss holder
 - Stay holder plate?
+
+*** Canti Post Mitering Fixture =$10=
+
+[[file:tools/canti-post-mitering-fixture.org]]
+
+Hold canti posts for mitering. Allow the correct miter angle to be set relative to its spring holes.
+
+*** Bench Vise BB Pucks =$5=
+
+Hold entire frame in bench vise for finishing work.
+
+Get some old BSA fixed bb cups from BSBC and turn down the threads.
 
 ** To Purchase
 
@@ -175,6 +187,8 @@ Shars R8 arbor ($27), and cheap HSS slitting saws
 
 Already have flat files, but few round/half-round files.
 
+TODO sizes
+
 ** Already Have
 
 - Bridgeport mills
@@ -189,6 +203,8 @@ Already have flat files, but few round/half-round files.
 - frame fixture
   - model v4
   - BOM
+  - update caliper requirement
+    - use 300mm calipers with stops (HTX: 2, HTY: 1, DAY: 1)
 - chainstay mitering fixture
   - Consider replacing extrusion with aluminum spine
   - .75" vise plate
@@ -199,55 +215,65 @@ Already have flat files, but few round/half-round files.
 - seatstay mitering fixture
   - model
   - BOM
-- bridge mitering fixture
+- (4) dummy headsets for transport and rack/fender building
+- (5) simple main tube mitering fixture
+- (6) bridge mitering fixture
   - model
   - BOM
-- disc brake fixture
+- (7) disc brake fixture
   - add flat mount 160, 180
   - make easier to fixture/machine
     - consider bolt-on inserts for different diameters/offsets (like lichen)
   - more metric
   - Final BOM
-- ht reamer/facer handles
+- (8) ht reamer/facer handles
   - model
   - BOM
-- dimpler
+- (9) dimpler
   - model
   - BOM
-- fork raker
-- tube bender
-- wheel tool
-- fd fixture
-- butt checker
-- simple main tube mitering fixture
-- dt-st "bird's notch" miter locator
-- bent st mitering/slotting fixture
-- cal-x-tender or giant calipers for frame fixture setup and tube length measurements
-- soft bb pucks for vise (or just old fixed cups with threads removed)
-- soft ht-steerer pucks for transport
-- alignment tools
-- canti post mitering fixture (double like cobra)?
-- wood tube blocks for vise / hand-file mitering
+- (10) fd fixture
+- (11) butt checker
+- (12) dt-st counter-miter finder
+  - The dummy BB holder could be compatible with a future main tube mitering fixture as well -- make sure there's adequate clearance for a large HT
+- (13) wheel tool
 - fork jig
-- thru-axle h-tool
+- alignment tools (ht cone skewer, bb post, frame alignment gauge, etc)
+- rotary draw tube bender(s) (ST and stays)
+  - compatible with fork blades?
+- fork raker
+  - if main bender is incompatible
 
 ** Not right now
 
 - Time savers
-  - Main tube mitering fixture setup with interlocking v-block, phasing block, and on-center rotary table
+  - Main tube mitering fixture setup with interlocking v-block, rotating phaser, and on-center rotary table
   - Water bottle boss drilling jig
     - Konga: "It’s not really that necessary. It will save some time when you don’t have to measure everything every time and it will help you when adding bottle bosses afterwards but you can really do the job with center drill and drill too."
+  - Specialized braze-on fixtures
+    - Make when needed, they're cheap
+  - Seat tube mitering/slotting fixture(s), uses:
+    - Bent ST-BB miter fixture
+      - For now, use tube block after bend (must be more than (1.5"/2+2.25")=3" of straight tube under the bend, unless a special narrow tube block is used)
+    - Internal dropper port slot
+      - For now, use tube block / main tube mitering fixture / angle vise if needed
+    - Seatpost clamp slot
+      - For now, either do it before welding (end mill or slitting saw), or hold the entire frame vertically and use an end mill like handerhan (move bridgeport ram far back to clear seatstays), and either drill the relief hole before welding, or use a ball end mill that's the same width as the primary end mill at the end, or use a small round file.
 - Low use
   - Stem fixture
   - Lug vise
-  - Fork/wishbone mitering fixture
-- TIG
-  - TIG heat sinks / purges
-  - high temperature tape to cover purge holes (like mark at chumba) (Kapton tape?)
+  - Fork/wishbone mitering fixture (probably for lathe)
+  - Thru-axle h-tool
+    - Probably unnecessary with syntace dropouts. If not, simple enough to make when needed.
+- Welding stuff (no TIG welder yet)
+  - Heatsinks / purges (HT, ST, BB, round dropout)
+  - Framebuilding-specific TIG torch upgrades
+    - (for AlphaTIG) https://www.youtube.com/watch?v=V5AZvT6Gd88
+  - High-temperature tape to cover purge holes (like mark at chumba) (Kapton tape?)
+  - Clip-on BB purge hole shield
 - Other
   - Gasflux Model 69 gasfluxer ($$)
-  - Hole saw actual cutting diameter gauge (my idea)
-  - Head tube badge arbor press die
-  - Seat collar welding fixture
-  - DT shifter boss fixture
-  - Abrasive mitering setup
+  - Abrasive mitering setup ($$)
+  - Hole saw actual cutting diameter gauge (my idea) (can use lathe for now)
+  - Head tube badge arbor press die (simple enough to 3d-print on the spot)
+  - Seat tube collar rotary welding fixture (silver braze them in for now)

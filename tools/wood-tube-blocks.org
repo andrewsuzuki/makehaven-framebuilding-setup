@@ -1,0 +1,27 @@
+#+TITLE: Wood Tube Blocks
+
+[[./wood-tube-blocks.png]]
+
+Hold tubes in the bench vise for mitering with hand files.
+
+3" side length cube
+
+* Sizes
+
+- 1-1/2"
+- 1-3/8"
+- 1-1/4"
+- 1-1/8"
+- 1"
+- 7/8"
+- 3/4"
+- 5/8"
+- 1/2"
+- 3/8"
+- V block for stays with outer radius on one end (similar to old Cobra tapered tube block)
+
+* Materials
+
+Oak (use Makehaven stash)
+
+=$0=

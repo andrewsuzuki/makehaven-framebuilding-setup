@@ -1,0 +1,15 @@
+#+TITLE: Canti Post Mitering Fixture
+
+[[./canti-post-mitering-fixture.png]]
+
+Hold canti posts for mitering. Allow the correct miter angle to be set relative to its spring holes.
+
+* Materials
+
+- 1.75" 6061 aluminum square bar, 4" length =~$6=
+- M6 x 25mm SHCS, =$4=
+  - https://www.aliexpress.com/item/10000150053486.html
+
+** Cost
+
+$10
