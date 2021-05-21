@@ -1,0 +1,13 @@
+#+TITLE: Dummy Headsets
+
+[[./dummy-headsets.png]]
+
+Secure fork to frame for transport, storage, or rack building.
+
+Simple 3d-printed PLA with set screws.
+
+* Materials
+
+- PLA (free)
+- M5 x 10mm set screws with soft tip (for carbon forks) (5x) =$8=
+  - https://www.mcmaster.com/94095A124/

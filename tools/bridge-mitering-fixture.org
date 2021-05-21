@@ -1,0 +1,54 @@
+#+TITLE: Bridge Mitering Fixture
+
+Hold small seatstay/chainstay bridges in a milling vise for mitering. The builder should only have to set the miter angle once. The top part of the fixture will pivot 180 degrees for mitering the other side.
+
+It should also have a plate to place a digital angle finder.
+
+Center brake/fender mounts:
+- None
+- Plain hole
+  - Could be on side or bottom
+  - Could be a through-hole (e.g. for nutted brakes) or blind (e.g. for threaded fender boss)
+- Recessed-nut
+  - https://framebuildersupply.com/collections/brake-bridge
+  - Typically ~11-14mm tube diameter
+  - Use M6 screw or pin to center and secure
+
+Shape:
+- Straight
+- Curved
+- With center brake mount outer profile (straight or curved)
+  - Round (12-18mm OD)
+  - Square (0.5" side length)
+
+Minimum length: >15mm for straight, >35mm for curved (horizontal)
+Tube diameters: 9mm - 20mm
+
+Notes:
+- Bottom-threaded-hole-boss bridges exist for fenders, but it's assumed the boss will be brazed/welded in /after/ mitering
+  - M5 boss OD: 6.4mm
+  # - M6 boss OD: 7.4mm (incompatible)
+- Should be able to to be used to drill small vent holes as well, but that should be easy
+
+All types:
+- Side-recessed cast round/square-center straight
+- Side-recessed cast round/square-center curved
+- Side-plain-hole straight
+- Side-plain-hole curved
+- Bottom-plain-hole straight
+- Bottom-plain-hole curved
+- None straight
+- None curved
+
+Groupings/interchangeable tops:
+- Side center-secure with M6 screw, narrow (15mm), phase pitch to flat center face, phase roll with temporary double v-block tops
+- Side flat secure, narrow (15mm), indexable, phase pitch with temporary keyed square if curved
+- Side flat secure, wide (35mm), indexable, phase pitch with temporary keyed square if curved (could be unnecessary given wider flat back)
+
+TODO:
+- What about roll of straight tube w/ hole? v-block might be necessary...
+- Definitely need drill bushings for the side or bottom of curved or straight tubes.
+  - side-straight, bottom-straight, bottom-curved: V block with bushing on center of top v
+  - side-curved: Officially unsupported. Would have to be diameter specific, unless some sort of centering clamp mechanism (complex) or adjustable bushing (complex + hard to set up) are used. However, it can likely be done using the above v block if the radius is small enough. For example, at R90mm, the center offset for a 10mm-wide v block would be ~.14mm. For a 15mm-wide v block it would be ~.31mm. Perhaps this is small enough to go unnoticed.
+    - or, anyone actually doing this could offset the drill bushing for a particular diameter/bend radius
+- Separate drilling fixture

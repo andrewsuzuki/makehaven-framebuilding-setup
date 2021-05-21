@@ -138,6 +138,12 @@ Hold entire frame in bench vise for finishing work.
 
 Get some old BSA fixed bb cups from BSBC and turn down the threads.
 
+*** Dummy Headsets =$8=
+
+[[file:tools/dummy-headsets.org]]
+
+Secure fork to frame for transport, storage, or rack building.
+
 ** To Purchase
 
 *** BikeCAD Pro Lifetime License (three machines) =$402=
@@ -215,7 +221,6 @@ TODO sizes
 - seatstay mitering fixture
   - model
   - BOM
-- (4) dummy headsets for transport and rack/fender building
 - (5) simple main tube mitering fixture
 - (6) bridge mitering fixture
   - model
