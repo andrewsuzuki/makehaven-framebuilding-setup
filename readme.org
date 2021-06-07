@@ -32,7 +32,7 @@ Most of the below tools and their BOMs (bills of materials) can be found in [[./
 
 Fixtures frame for brazing or welding.
 
-*** Universal Disc Brake Fixture =$42=
+*** Universal Disc Brake Fixture =$140=
 
 [[file:tools/disc-brake-fixture.org]]
 
@@ -221,29 +221,22 @@ TODO sizes
 - seatstay mitering fixture
   - model
   - BOM
-- (5) simple main tube mitering fixture
+- (5) main tube mitering fixture
 - (6) bridge mitering fixture
+  - ... and bridge drilling fixture
+- (7) EASY ht reamer/facer handles
   - model
   - BOM
-- (7) disc brake fixture
-  - add flat mount 160, 180
-  - make easier to fixture/machine
-    - consider bolt-on inserts for different diameters/offsets (like lichen)
-  - more metric
-  - Final BOM
-- (8) ht reamer/facer handles
+- (8) EASY dimpler
   - model
   - BOM
-- (9) dimpler
-  - model
-  - BOM
-- (10) fd fixture
-- (11) butt checker
-- (12) dt-st counter-miter finder
-  - The dummy BB holder could be compatible with a future main tube mitering fixture as well -- make sure there's adequate clearance for a large HT
-- (13) wheel tool
+- (9) EASY butt checker
+- (10) EASY wheel tool
+- (11) EASY bent-tube bb miter tool
+- (12) EASY digital angle finder v block
 - fork jig
 - alignment tools (ht cone skewer, bb post, frame alignment gauge, etc)
+  - dummy axle center scribe line for alignment?
 - rotary draw tube bender(s) (ST and stays)
   - compatible with fork blades?
 - fork raker
@@ -270,6 +263,8 @@ TODO sizes
   - Fork/wishbone mitering fixture (probably for lathe)
   - Thru-axle h-tool
     - Probably unnecessary with syntace dropouts. If not, simple enough to make when needed.
+  - FD (front derailleur) tab fixture
+    - Builds should use an FD adaptor clamp instead
 - Welding stuff (no TIG welder yet)
   - Heatsinks / purges (HT, ST, BB, round dropout)
   - Framebuilding-specific TIG torch upgrades
@@ -282,3 +277,6 @@ TODO sizes
   - Hole saw actual cutting diameter gauge (my idea) (can use lathe for now)
   - Head tube badge arbor press die (simple enough to 3d-print on the spot)
   - Seat tube collar rotary welding fixture (silver braze them in for now)
+  - DT-ST counter-miter finder
+    - Probably unnecessary if doing the full main tube mitering fixture with rotating phase block
+    - The dummy BB holder could be compatible with a future main tube mitering fixture and/or bottle boss drilling fixture -- make sure there's adequate clearance for a large HT [main tube] phase block

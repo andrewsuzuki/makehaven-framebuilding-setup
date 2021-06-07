@@ -4,6 +4,8 @@
 
 Hold canti posts for mitering. Allow the correct miter angle to be set relative to its spring holes.
 
+One hole is for standard canti posts. The other is for Mafac/Rene Herse centerpull posts.
+
 * Materials
 
 - 1.75" 6061 aluminum square bar, 4" length =~$6=

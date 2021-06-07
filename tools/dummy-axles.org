@@ -46,5 +46,7 @@ The square shoulder for the middle section should retain the small fillet from t
 
 The actual middle width is .003" oversized.
 
+The .75" OD should probably be ~.7490"-.7495" (Alex Meade tolerance).
+
 TODO washers (cost + fab)
 TODO longer TA shoulder-washers? (see farr photo)

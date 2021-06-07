@@ -46,6 +46,7 @@ Groupings/interchangeable tops:
 - Side flat secure, wide (35mm), indexable, phase pitch with temporary keyed square if curved (could be unnecessary given wider flat back)
 
 TODO:
+- Will it work with removable canti posts?
 - What about roll of straight tube w/ hole? v-block might be necessary...
 - Definitely need drill bushings for the side or bottom of curved or straight tubes.
   - side-straight, bottom-straight, bottom-curved: V block with bushing on center of top v

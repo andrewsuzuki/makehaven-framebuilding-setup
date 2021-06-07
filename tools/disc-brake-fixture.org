@@ -17,6 +17,7 @@ There's an arm for every standard that slots into the main body with precision d
   - PM140
   - PM160
   - PM180
+  - PM200
   - PM203
 - Flat Mount
   - FM140F
@@ -26,16 +27,31 @@ There's an arm for every standard that slots into the main body with precision d
 
 * Materials
 
-- 1.0" 6061 aluminum plate, 4x4.2"
-  - 17 in3 \=> =~$15=
-- .75" 6061 aluminum square bar, 36"
-  - ~.5x.5x7" x2 (is, post)
-  - ~.625x.625x8" x2 (flat mount front and rear)
-  - \=> =~$22=
-- .25" x ~.5" stainless dowel pins x10 =$4=
-  - https://www.mcmaster.com/90145A537/
-- M5 x 20mm SHCS x 2 \=> =~$2=
+- 0.5" 6061 aluminum plate, 5x5" =$10= (if purchased in larger piece)
+- 303 stainless
+  - Requirements
+    - PM arm: 140x22x12
+    - Base arms: 100x12x12 (3x)
+    - FMR attachment: 50x30x15
+    - FMF attachment: 80x33x15
+    - IS attachment: 70x35x12
+  - Stock
+    - 5/8" plate, 160x120 bounding box (see screenshot) =$60=
+- 1.375" x 7" brass round bar =$30=
+  - Actual length of bushings: ~32mm each. Put entire bar in collet and use parting tool between them (5mm) -> 37mm each, plus extra for last one (30mm). Then a bit extra for the knob. Total: 30 + 37*4 = 178mm => 7"
+- 4mm x 18mm stainless dowel pins 10x =$10.12= (bag of 25x)
+  - https://www.mcmaster.com/91585A455/
+- Screws (TODO collect with needs for other tools)
+  - 5mm x 14mm shoulder, M4 thread [precision] stainless shoulder screws (base arm to attachments), 6x =$18=
+  - M5 x 18mm BHCS, 2x (arm to body) =$2=
+  - M5 x 25mm SHCS, 2x (FMR to mount, sized to 15mm-thick Paragon bosses) =$2=
+  - M5 x 30mm SHCS, 2x (FMF to mount) =$2=
+  - M6 x 15mm SHCS, 2x (IS to mount) =$2=
+  - M6 x 18mm SHCS, 2x (PM to mount) =$2=
+- Tools (TODO collect with needs for other tools)
+  - 4mm reamer
+  - 5mm reamer
 
 ** Cost
 
-$42
+~$140
