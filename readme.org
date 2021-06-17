@@ -106,9 +106,11 @@ Space and index the dropouts throughout the framebuilding process, and provide a
 
 Variety of sizes for popular dropout/hub standards.
 
-*** Dimpler
+*** Tube Dimpler =$65=
 
-Puts longitudinal dimples in chainstays to increase tire and/or chainring clearance, aided by a vise or the arbor press.
+[[file:tools/tube-dimpler.org]]
+
+Form dimples in chainstays to increase tire, chainring, or crank arm clearance.
 
 *** Simple Fork Blade Bender
 
@@ -227,20 +229,18 @@ TODO sizes
 - (7) EASY ht reamer/facer handles
   - model
   - BOM
-- (8) EASY dimpler
-  - model
-  - BOM
 - (9) EASY butt checker
 - (10) EASY wheel tool
 - (11) EASY bent-tube bb miter tool
 - (12) EASY digital angle finder v block
-- fork jig
+- (13) EASY fork jig
 - alignment tools (ht cone skewer, bb post, frame alignment gauge, etc)
   - dummy axle center scribe line for alignment?
 - rotary draw tube bender(s) (ST and stays)
   - compatible with fork blades?
 - fork raker
   - if main bender is incompatible
+- more adjustable reamers (up to 31.6)?
 
 ** Not right now
 
@@ -265,6 +265,7 @@ TODO sizes
     - Probably unnecessary with syntace dropouts. If not, simple enough to make when needed.
   - FD (front derailleur) tab fixture
     - Builds should use an FD adaptor clamp instead
+  - Tube ovalizing dies
 - Welding stuff (no TIG welder yet)
   - Heatsinks / purges (HT, ST, BB, round dropout)
   - Framebuilding-specific TIG torch upgrades

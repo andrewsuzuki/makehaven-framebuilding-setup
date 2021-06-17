@@ -1,0 +1,74 @@
+#+TITLE: Tube Dimpler
+
+[[./tube-dimpler.png]]
+
+Form dimples in chainstays to increase tire, chainring, or crank arm clearance.
+
+Purposes:
+- Tire clearance
+- Chainring clearance
+- Crank arm clearance
+
+Dimple types:
+- Wide (Wider than tube, ~20mm+)
+  - Probably the best for minimizing stress risers
+  - Probably the best for tire clearance dimples, especially if it is located at the apex of an existing bend
+  - Example: 44 bikes
+- Thin (thinner than tube, ~10mm)
+  - Most common for all purposes
+  - More likely to create a stress riser, especially if it's too deep, or when done with a material with lower tensile strength (i.e. aluminum)
+  - Probably the best choice for a shallow secondary dimple (dimple on the other side of a primary dimple, especially for chainring clearance)
+  - Example: Most bikes
+
+The tool should be optimized for the "wide" dimple type. It should be able to hold a bent tube and phase the dimple to the bend, and bend it with moderate repeatability (high precision isn't too important, because its final position will be locked in by the miters).
+
+* Design
+
+- Two dies per set -- "backing" die (cradles backside of tube) and "form" die (creates dimple).
+  - Backing dies are generally intended for a specific tube diameter, shape, bend (if any), form die, and dimple depth. Ideally, it should match the tube's shape /after/ being bent (while also accounting for springback). Also, they should have a standardized footprint size and index into the spine.
+  - Form dies generally have a specific width and radius. Should work with multiple tube diameters/shapes/bends.
+  - 3d-print them to start
+- Use with arbor press. Should be short enough to fit in a budget arbor press (e.g. Harbor Freight 1 ton).
+- T-slot extrusion spine (60x30mm)
+- Two height-adjustable v blocks (for phasing, support, and repeatability)
+- Ruler with pointer (for reference/repeatability, not measuring anything directly)
+
+Makehaven arbor press dimensions:
+- Ram is 1.495" square
+- Entire base platform is 4.25" x 8", 3" tall
+- Base U shape is 2.7" across/diameter, ~3.1" deep (including arc)
+- Throat height is ~12.6"
+
+* BOM
+
+- Extrusion (30 series, 60x30, 500mm), $10
+  - Misumi https://us.misumi-ec.com/vona2/detail/110302686970
+- Set screw with soft tip, $3.69
+  - Mcmaster https://www.mcmaster.com/93285A538/
+- 8mm x 80mm shoulder screws, M6 thread (at least 2x), $5.28
+  # - Mcmaster https://www.mcmaster.com/92981A230/
+  - Aliexpress https://www.aliexpress.com/item/4000099042962.html
+- Return springs (at least 2x), $7.54
+  - At least 71mm long
+  - At least ~50mm usable travel
+  - Mcmaster https://www.mcmaster.com/9657K428/
+- Dowel pins 5mm x 20mm (at least 2x), $8.40
+  - Mcmaster https://www.mcmaster.com/93600A567/
+- Ruler tape, metric, 90mm, $2.77
+  - https://www.aliexpress.com/item/32890232960.html
+- SHCS https://www.aliexpress.com/item/10000150053486.html
+  - M6 x 20mm (Tower to extrusion (2x), V block rest plate to extrusion t-nut (2x), Push plate to form die (2x), Shoulder screw base to tower (2x)), 8x+, $2.51
+  - M6 x 25mm (V block to V block rest plate), 2x+, $2.69
+- M6 30-series T-nuts $2.25
+  - https://www.aliexpress.com/item/1005002114332413.htm
+- 6061 aluminum, $25
+  - Final sizes:
+    - Tower 130x60x18 (2x)
+    - Push plate 96x96x15
+    - Arrange lengthwise
+  - Stock: .75 x 4" 6061 flat bar, 15" (extra 1" for two cuts)
+- Printed dies and v-blocks, ~free
+
+** Total
+
+=$65=
